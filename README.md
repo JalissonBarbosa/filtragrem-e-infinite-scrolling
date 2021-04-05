@@ -1,7 +1,7 @@
 # filtragrem-e-infinite-scrolling
 Projeto com foco de funcionalidades web
 
-https://user-images.githubusercontent.com/63216015/113640050-f6f91080-9650-11eb-935b-21fb45ce43e3.mp4
+![image](https://user-images.githubusercontent.com/63216015/113640307-843c6500-9651-11eb-893d-9d7e98d336bd.png)
 
 
 Tecnologias usadas:
